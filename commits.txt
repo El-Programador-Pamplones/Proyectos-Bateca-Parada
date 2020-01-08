@@ -1,0 +1,19 @@
+commit 75d3c3abd5685f16e323225014858f7a989c5197
+Author: Leo <leoonorio_02@hotmail.com>
+Date:   Mon Jan 6 16:54:23 2020 -0500
+
+    adicionamos un parrafo y cambiamos los nombres de algunos campos en el formulario
+
+
+commit ad719f10bcc99234f1f1462ef11e0940246d9e9a
+Author: Leo <leoonorio_02@hotmail.com>
+Date:   Mon Jan 6 16:40:23 2020 -0500
+
+    separamos por parrafos el mensaje principal
+
+
+commit 3d639d028ce760d5848991eb501bf4d25e5a2577
+Author: Leo <leoonorio_02@hotmail.com>
+Date:   Fri Dec 27 15:17:11 2019 -0500
+
+    inicio del proyecto
